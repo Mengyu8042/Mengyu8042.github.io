@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Mengyu Li. I am a fifth-year Ph.D. candidate at the [Institue of Statistics and Big Data](http://isbd.ruc.edu.cn/), Renmin University of China (RUC), under the supervision of Assistant Professor [Cheng Meng](http://isbd.ruc.edu.cn/sztd/c8798bd759634ad984964a646fb8c25d.htm). I served as a Research Assistant in the Department of Statistics, The Chinese University of Hong Kong from November 2023 to May 2024, supervised by Professor [Xiaodan Fan](https://www.sta.cuhk.edu.hk/peoples/xfan/). I received my Bachelor degree in Statistics from Beijing Normal University in 2020. 
+My name is Mengyu Li. I am a fifth-year Ph.D. candidate at the [Institue of Statistics and Big Data](http://isbd.ruc.edu.cn/), Renmin University of China (RUC), under the supervision of Assistant Professor [Cheng Meng](http://isbd.ruc.edu.cn/sztd/c8798bd759634ad984964a646fb8c25d.htm). From November 2023 to May 2024, I was an exchange student at the Department of Statistics, The Chinese University of Hong Kong, under the supervision of Professor [Xiaodan Fan](https://www.sta.cuhk.edu.hk/peoples/xfan/). I received my Bachelor degree in Statistics from Beijing Normal University in 2020. 
 
 My research mainly focuses on developing efficient methods for large-scale optimal transport problems and statistical models. I am also interested in the applications of statistics and machine learning in solving significant scientific problems.
 
