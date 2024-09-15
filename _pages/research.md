@@ -18,7 +18,7 @@ Publications
 **(Student Paper Award in 2022 JSM, Sections on Statistical Computing and Graphics)**.
 [[Paper]](https://arxiv.org/abs/2206.10240) [[code]](https://github.com/Mengyu8042/Core-elements)
 
-* Yukuan Hu, **Mengyu Li**, Xin Liu & Cheng Meng. Sampling-based methods for multi-block optimization problems over transport polytopes (2024). *Mathematics of Computation*. In press.
+* Yukuan Hu, **Mengyu Li**, Xin Liu & Cheng Meng (2024). Sampling-based methods for multi-block optimization problems over transport polytopes. *Mathematics of Computation*. In press.
 [[Paper]](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03989-3/)
   
 * **Mengyu Li**, Jingyi Zhang & Cheng Meng (2024). Nonparametric additive models for billion observations. *Journal of Computational and Graphical Statistics*. In press.
