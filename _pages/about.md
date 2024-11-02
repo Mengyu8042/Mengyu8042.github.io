@@ -14,7 +14,7 @@ My research mainly focuses on developing efficient methods for large-scale optim
 
 Recent News
 ======
-* Oct. 2024: I will attend the [22nd CSIAM Annual Meeting](https://meeting.csiam.org.cn/#/2024/) in Nanjing, China. Looking forward to seeing you there!
+* Oct. 2024: I will attend the [CSIAM 22nd Annual Meeting](https://meeting.csiam.org.cn/#/2024/) in Nanjing, China. Looking forward to seeing you there!
 * Aug. 2024: Our new paper [*Sampling-based methods for multi-block optimization problems over transport polytopes*](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03989-3/) has been published online.
 * Mar. 2024: Our new paper [*Nonparametric additive models for billion observations*](https://www.tandfonline.com/doi/abs/10.1080/10618600.2024.2319684) has been published online.
 

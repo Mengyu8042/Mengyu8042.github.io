@@ -1,12 +1,20 @@
 ---
 layout: archive
-title: "Talks"
-permalink: /talks/
+title: "Presentations"
+permalink: /presentations/
 author_profile: true
 ---
 
-Invited presentations
+Talks & Poster Presentations
 ------
+* The 8th CSIAM Student Forum in CSIAM 2024, Nanjing, China <span style="float:right">Oct. 2024</span>
+    
+    *Importance sparsification for Sinkhorn algorithm*
+
+* Student Academic Seminar for the 87th Anniversary of RUC, Beijing, China <span style="float:right">Oct. 2024</span>
+
+    *Statistical computing aids coronary heart disease screening*
+
 
 * Capital Statistics and Data Science High-Level Forum, Beijing, China <span style="float:right">Jul. 2023</span>
 
