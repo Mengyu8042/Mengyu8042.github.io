@@ -14,7 +14,8 @@ Talks & Poster Presentations
 * Student Academic Seminar for the 87th Anniversary of RUC, Beijing, China <span style="float:right">Oct. 2024</span>
 
     *Statistical computing aids coronary heart disease screening*
-
+    
+    <img src="../images/talk_20241012.jpg" width="300" />
 
 * Capital Statistics and Data Science High-Level Forum, Beijing, China <span style="float:right">Jul. 2023</span>
 
