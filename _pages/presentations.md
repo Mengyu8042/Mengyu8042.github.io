@@ -7,6 +7,10 @@ author_profile: true
 
 Talks & Poster Presentations
 ------
+* PKU Applied Math Lunch Seminar, Peking University, Beijing, China <span style="float:right">Dec. 2024</span>
+
+    *Importance sparsification for Sinkhorn algorithm*
+
 * The 8th CSIAM Student Forum in CSIAM 2024, Nanjing, China <span style="float:right">Oct. 2024</span>
     
     *Importance sparsification for Sinkhorn algorithm*
