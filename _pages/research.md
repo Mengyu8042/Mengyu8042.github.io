@@ -14,12 +14,12 @@ Research Interests
 
 Publications
 ------
+* Yukuan Hu, **Mengyu Li**, Xin Liu & Cheng Meng (2025). Sampling-based methods for multi-block optimization problems over transport polytopes. *Mathematics of Computation*.
+[[paper]](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03989-3/)
+
 * **Mengyu Li**, Jun Yu, Tao Li & Cheng Meng (2024). Core-elements for large-scale least squares estimation. *Statistics and Computing*. 34(190).
 **(Student Paper Award in 2022 JSM, Sections on Statistical Computing and Graphics)**.
 [[paper]](https://arxiv.org/abs/2206.10240) [[code]](https://github.com/Mengyu8042/Core-elements)
-
-* Yukuan Hu, **Mengyu Li**, Xin Liu & Cheng Meng (2024). Sampling-based methods for multi-block optimization problems over transport polytopes. *Mathematics of Computation*.
-[[paper]](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03989-3/)
   
 * **Mengyu Li**, Jingyi Zhang & Cheng Meng (2024). Nonparametric additive models for billion observations. *Journal of Computational and Graphical Statistics*, 33(4), 1397–1412.
 [[paper]](https://www.tandfonline.com/doi/full/10.1080/10618600.2024.2319684) [[code]](https://github.com/Mengyu8042/Core-NAM)
