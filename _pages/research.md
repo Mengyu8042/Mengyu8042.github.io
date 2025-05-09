@@ -13,8 +13,10 @@ Research Interests
 * AI for healthcare
 
 Publications
-------
-* Yukuan Hu, **Mengyu Li**, Xin Liu & Cheng Meng (2025). Sampling-based methods for multi-block optimization problems over transport polytopes. *Mathematics of Computation*.
+-----
+* Junlie Huang, Xinlai Kang, Qiannan Huang, **Mengyu Li** & Cheng Meng (2025). Efficient approximation of leverage scores in two-dimensional autoregressive models with application to image anomaly detection. *Journal of Computational and Graphical Statistics*. In press. 
+
+* Yukuan Hu, **Mengyu Li**, Xin Liu & Cheng Meng (2025). Sampling-based methods for multi-block optimization problems over transport polytopes. *Mathematics of Computation*, 94(353), 1281-1322.
 [[paper]](https://www.ams.org/journals/mcom/0000-000-00/S0025-5718-2024-03989-3/)
 
 * **Mengyu Li**, Jun Yu, Tao Li & Cheng Meng (2024). Core-elements for large-scale least squares estimation. *Statistics and Computing*. 34(190).
@@ -36,11 +38,3 @@ Publications
 
 * **Mengyu Li** & Junlong Zhao (2022). Communication-efficient distributed linear discriminant analysis for binary classification. *Statistica Sinica*, 32, 1343–1361.
 [[paper]](https://www3.stat.sinica.edu.tw/statistica/oldpdf/A32n308.pdf)
-
-Working Papers
-------
-* Chengshuo Du, Han Hao, **Mengyu Li**, Tao Li, Cheng Meng & Jun Yu (Alphabetical order). Ensemble pruning using optimal transport. Submitted to *IEEE Transactions on Information Theory*.
-
-* **Mengyu Li**, Cheng Meng & Xiaodan Fan. Iterative optimal transport for multimodal image registration. Submitted to *IEEE Transactions on Image Processing*. 
-
-* **Mengyu Li**, Bencong Zhu, Cheng Meng & Xiaodan Fan. Double optimal transport for gene regulatory network reconstruction with unpaired samples. Submitted to *Bioinformatics*. 
