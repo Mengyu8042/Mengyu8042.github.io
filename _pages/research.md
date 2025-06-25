@@ -14,6 +14,8 @@ Research Interests
 
 Publications
 -----
+* **Mengyu Li**, Bencong Zhu, Cheng Meng & Xiaodan Fan (2025). Double optimal transport for differential gene regulatory network inference with unpaired samples. *Bioinformatics*. In press.
+
 * Junlie Huang, Xinlai Kang, Qiannan Huang, **Mengyu Li** & Cheng Meng (2025). Efficient approximation of leverage scores in two-dimensional autoregressive models with application to image anomaly detection. *Journal of Computational and Graphical Statistics*. In press. 
 
 * Yukuan Hu, **Mengyu Li**, Xin Liu & Cheng Meng (2025). Sampling-based methods for multi-block optimization problems over transport polytopes. *Mathematics of Computation*, 94(353), 1281-1322.
