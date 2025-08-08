@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mengyu Li's Homepage"
 title_separator          : "-"
 name                     : &name "Mengyu Li"
-description              : &description "Ph.D."
+description              : &description "Postdoc, Tsinghua University"
 url                      : https://Mengyu8042.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mengyu8042/Mengyu8042.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Mengyu Li (李梦雨)"
   avatar           : "profile.png"
-  bio              : "Ph.D."
+  bio              : "Postdoc, Tsinghua University"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=hPWnWK0AAAAJ&hl=en"
-  email            : "limengyu516@ruc.edu.cn"
+  email            : "mengyuli@tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
