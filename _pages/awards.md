@@ -7,6 +7,8 @@ author_profile: true
 
 Funding
 ------
+* Shuimu Tsinghua Scholar Program, THU <span style="float:right">2025-present</span> 
+
 * Young Elite Scientists Sponsorship Program - Doctoral Student Special Program, by China Association for Science and Technology <span style="float:right">2024–2025</span> 
 
 * Outstanding Innovative Talents Cultivation Funded Program of RUC <span style="float:right">2021–2024</span> 
