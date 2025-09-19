@@ -14,6 +14,9 @@ Research Interests
 
 Publications
 -----
+* Tao Wang, **Mengyu Li** (Joint first author), Geduo Zeng, Cheng Meng & Qiong Zhang (2025). Gaussian herding across pens: An optimal transport perspective on global Gaussian reduction for 3DGS. *NeurIPS 2025* Spotlight (Top 3%).
+[[paper]](https://arxiv.org/abs/2506.09534)
+
 * **Mengyu Li**, Bencong Zhu, Cheng Meng & Xiaodan Fan (2025). Double optimal transport for differential gene regulatory network inference with unpaired samples. *Bioinformatics*. 
 [[paper]](https://academic.oup.com/bioinformatics/article/41/8/btaf352/8221768?login=false) [[code]](https://github.com/Mengyu8042/ot-grn)
 
