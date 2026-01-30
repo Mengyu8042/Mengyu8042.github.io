@@ -14,6 +14,9 @@ Research Interests
 
 Publications
 -----
+* Xiaxue Ouyang, Hao Zheng, Haoxian Liang, Jingyi Zhang, Yixuan Qiu, Cheng Meng, and **Mengyu Li** (Corresponding author) (2026). Sparsification Techniques for Large‐Scale Optimal Transport Problems. *Wiley Interdisciplinary Reviews: Computational Statistics*.
+[[paper]](../files/WIREs_sparOT.pdf)
+
 * Tao Wang, **Mengyu Li** (Joint first author), Geduo Zeng, Cheng Meng & Qiong Zhang (2025). Gaussian herding across pens: An optimal transport perspective on global Gaussian reduction for 3DGS. *NeurIPS 2025* Spotlight (Top 3%).
 [[paper]](https://arxiv.org/abs/2506.09534)
 
