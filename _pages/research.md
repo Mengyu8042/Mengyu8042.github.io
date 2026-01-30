@@ -14,7 +14,7 @@ Research Interests
 
 Publications
 -----
-* Xiaxue Ouyang, Hao Zheng, Haoxian Liang, Jingyi Zhang, Yixuan Qiu, Cheng Meng, **Mengyu Li** (Corresponding author) (2026). Sparsification Techniques for Large‐Scale Optimal Transport Problems. *Wiley Interdisciplinary Reviews: Computational Statistics*.
+* Xiaxue Ouyang, Hao Zheng, Haoxian Liang, Jingyi Zhang, Yixuan Qiu, Cheng Meng, **Mengyu Li** (Corresponding author) (2026). Sparsification techniques for large‐scale optimal transport problems. *Wiley Interdisciplinary Reviews: Computational Statistics*.
 [[paper]](../files/WIREs_sparOT.pdf)
 
 * **Mengyu Li**, Cheng Meng, Xiaodan Fan (2026). Iterative optimal transport for multimodal image registration. *Pattern Recognition.*
