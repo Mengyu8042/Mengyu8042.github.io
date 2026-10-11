@@ -7,7 +7,9 @@ author_profile: true
 
 Funding
 ------
-* China Postdoctoral Science Foundation <span style="float:right">2025-2027</span> 
+* Youth Science Foundation Project (Category C), National Natural Science Foundation of China <span style="float:right">2027-2029</span>
+
+* General Project, China Postdoctoral Science Foundation <span style="float:right">2025-2027</span>
 
 * Shuimu Tsinghua Scholar Program <span style="float:right">2025-2027</span> 
 
