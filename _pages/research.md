@@ -71,7 +71,7 @@ $\ast$ Corresponding author; $\dagger$ Joint first author; $\ddagger$ Alphabetic
 
 * Xinyue Yang, **Mengyu Li**$^\ast$, Jun S. Liu$^\ast$. Generative distributional regression via joint and conditional distribution matching. *Submitted*.
 
-* Pengyu Li, **Mengyu Li**$^\dagger$, Jianzhu Ma, Jun S. Liu. Steer, select, and stratify: Training-free sampling for protein motif scaffolding. *Submitted*.
+* Pengyu Li, **Mengyu Li**$^\dagger$, Jianzhu Ma, Jun S. Liu$^\ast$. Steer, select, and stratify: Training-free sampling for protein motif scaffolding. *Submitted*.
 
 ### Other Work
 
