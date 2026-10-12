@@ -69,8 +69,6 @@ $\ast$ Corresponding author; $\dagger$ Joint first author; $\ddagger$ Alphabetic
 
 * **Mengyu Li**, Meng Cheng$^\ast$, Jun S. Liu$^\ast$. Free-support Wasserstein resampling in sequential Monte Carlo. *Submitted*.
 
-* **Mengyu Li**, Shunxing Yan$^\dagger$, Jun S. Liu$^\ast$. Localized Gaussian mixture filtering with Gaussian-space optimal transport resampling. *Submitted*.
-
 * Xinyue Yang, **Mengyu Li**$^\ast$, Jun S. Liu$^\ast$. Generative distributional regression via joint and conditional distribution matching. *Submitted*.
 
 * Pengyu Li, **Mengyu Li**$^\dagger$, Jianzhu Ma, Jun S. Liu. Steer, select, and stratify: Training-free sampling for protein motif scaffolding. *Submitted*.
