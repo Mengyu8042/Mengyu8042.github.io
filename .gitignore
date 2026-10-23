@@ -1,2 +1,31 @@
+# Generated site and build caches
 _site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+.bundle/
+node_modules/
+vendor/bundle/
 
+# Local agent instructions and configuration
+AGENTS.md
+AGENTS.local.md
+CLAUDE.md
+.agents/
+.codex/
+.claude/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Operating-system and editor metadata
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
