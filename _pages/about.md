@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Mengyu Li. I'm now a postdoctoral researcher at Tsinghua University (THU) advised by Prof. [Jun S. Liu](https://sites.harvard.edu/junliu/). I received my Ph.D. degree in Statistics from Renmin University of China (RUC) under the supervision of Prof. [Cheng Meng](https://cheng-bdal.github.io/) in 2025. From November 2023 to May 2024, I was an exchange student at The Chinese University of Hong Kong advised by Prof. [Xiaodan Fan](https://www.sta.cuhk.edu.hk/peoples/xfan/). I received my bachelor's degree in Statistics from Beijing Normal University in 2020.
 
-My research focuses on optimal transport, statistical computing, and statistical machine learning. I am also interested in applying statistical and machine learning methods to scientific problems. My recent work centers on sequential Monte Carlo (SMC) methods and their use in training-free conditional generation, with applications to protein design.
+My research focuses on optimal transport, statistical computing, and statistical machine learning. I am also interested in applying statistical and machine learning methods to scientific problems. My recent work centers on sequential Monte Carlo methods and their use in training-free conditional generation, with applications to protein design.
 
 Recent News
 ======
