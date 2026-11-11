@@ -3,11 +3,12 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+hide_page_title: true
 publication_styles: true
 ---
 
 Research Interests
-------
+======
 <ul class="research-interests">
   <li>Optimal transport</li>
   <li>Statistical computing</li>
@@ -16,17 +17,17 @@ Research Interests
   <li>AI for science</li>
 </ul>
 
-Publications and Working Papers
------
+Selected Publications and Working Papers
+======
 
 <p class="publication-legend"><sup>*</sup> Corresponding author; <sup>†</sup> Joint first author; <sup>‡</sup> Alphabetical order</p>
 
-<h3 class="research-direction">Sequential Monte Carlo and Generative Modeling</h3>
+<h2 class="research-direction">Sequential Monte Carlo and Generative Modeling</h2>
 
 <div class="publication-list">
 
 <article class="publication">
-  <h4 class="publication__title">Free-support Wasserstein resampling in sequential Monte Carlo</h4>
+  <h3 class="publication__title">Free-support Wasserstein resampling in sequential Monte Carlo</h3>
   <p class="publication__authors"><strong>Mengyu Li</strong>, Cheng Meng<sup>*</sup>, Jun S. Liu<sup>*</sup></p>
   <p class="publication__venue"><em>Journal of the American Statistical Association</em> (2026+)</p>
   <p class="publication__links">
@@ -36,7 +37,7 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">BridgeTwist: Twisting Schrödinger bridges for training-free conditional sampling</h4>
+  <h3 class="publication__title">BridgeTwist: Twisting Schrödinger bridges for training-free conditional sampling</h3>
   <p class="publication__authors"><strong>Mengyu Li</strong>, Qianqian Qu, Jun S. Liu<sup>*</sup></p>
   <p class="publication__venue"><em>NeurIPS</em> (2026)</p>
   <p class="publication__links">
@@ -46,25 +47,25 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Generative distributional regression via joint and conditional distribution matching</h4>
+  <h3 class="publication__title">Generative distributional regression via joint and conditional distribution matching</h3>
   <p class="publication__authors">Xinyue Yang, <strong>Mengyu Li</strong><sup>*</sup>, Jun S. Liu<sup>*</sup></p>
   <p class="publication__venue">Submitted</p>
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Steer, select, and stratify: Training-free sampling for protein motif scaffolding</h4>
+  <h3 class="publication__title">Steer, select, and stratify: Training-free sampling for protein motif scaffolding</h3>
   <p class="publication__authors">Pengyu Li, <strong>Mengyu Li</strong><sup>†</sup>, Jianzhu Ma, Jun S. Liu<sup>*</sup></p>
   <p class="publication__venue">Submitted</p>
 </article>
 
 </div>
 
-<h3 class="research-direction">Computational Optimal Transport</h3>
+<h2 class="research-direction">Computational Optimal Transport</h2>
 
 <div class="publication-list">
 
 <article class="publication">
-  <h4 class="publication__title">Sparsification techniques for large‐scale optimal transport problems</h4>
+  <h3 class="publication__title">Sparsification techniques for large‐scale optimal transport problems</h3>
   <p class="publication__authors">Xiaxue Ouyang, Hao Zheng, Haoxian Liang, Jingyi Zhang, Yixuan Qiu, Cheng Meng, <strong>Mengyu Li</strong><sup>*</sup></p>
   <p class="publication__venue"><em>Wiley Interdisciplinary Reviews: Computational Statistics</em> (2026)</p>
   <p class="publication__links">
@@ -73,7 +74,7 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Sampling-based methods for multi-block optimization problems over transport polytopes</h4>
+  <h3 class="publication__title">Sampling-based methods for multi-block optimization problems over transport polytopes</h3>
   <p class="publication__authors">Yukuan Hu, <strong>Mengyu Li</strong><sup>‡</sup>, Xin Liu, Cheng Meng</p>
   <p class="publication__venue"><em>Mathematics of Computation</em> (2025)</p>
   <p class="publication__links">
@@ -82,7 +83,7 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Importance sparsification for Sinkhorn algorithm</h4>
+  <h3 class="publication__title">Importance sparsification for Sinkhorn algorithm</h3>
   <p class="publication__authors"><strong>Mengyu Li</strong>, Jun Yu<sup>†</sup>, Tao Li, Cheng Meng<sup>*</sup></p>
   <p class="publication__venue"><em>Journal of Machine Learning Research</em> (2023)</p>
   <p class="publication__note">Student Paper Award in JSM 2023, Statistics in Imaging Section</p>
@@ -93,7 +94,7 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Efficient approximation of Gromov-Wasserstein distance using importance sparsification</h4>
+  <h3 class="publication__title">Efficient approximation of Gromov-Wasserstein distance using importance sparsification</h3>
   <p class="publication__authors"><strong>Mengyu Li</strong>, Jun Yu<sup>†</sup>, Hongteng Xu, Cheng Meng<sup>*</sup></p>
   <p class="publication__venue"><em>Journal of Computational and Graphical Statistics</em> (2023)</p>
   <p class="publication__links">
@@ -104,12 +105,12 @@ Publications and Working Papers
 
 </div>
 
-<h3 class="research-direction">Optimal Transport Modeling and Applications</h3>
+<h2 class="research-direction">Optimal Transport Modeling and Applications</h2>
 
 <div class="publication-list">
 
 <article class="publication">
-  <h4 class="publication__title">Iterative optimal transport for multimodal image registration</h4>
+  <h3 class="publication__title">Iterative optimal transport for multimodal image registration</h3>
   <p class="publication__authors"><strong>Mengyu Li</strong>, Cheng Meng<sup>*</sup>, Xiaodan Fan</p>
   <p class="publication__venue"><em>Pattern Recognition</em> (2026)</p>
   <p class="publication__links">
@@ -119,7 +120,7 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Double optimal transport for differential gene regulatory network inference with unpaired samples</h4>
+  <h3 class="publication__title">Double optimal transport for differential gene regulatory network inference with unpaired samples</h3>
   <p class="publication__authors"><strong>Mengyu Li</strong>, Bencong Zhu<sup>†</sup>, Cheng Meng<sup>*</sup>, Xiaodan Fan<sup>*</sup></p>
   <p class="publication__venue"><em>Bioinformatics</em> (2025)</p>
   <p class="publication__links">
@@ -129,7 +130,7 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Gaussian herding across pens: An optimal transport perspective on global Gaussian reduction for 3DGS</h4>
+  <h3 class="publication__title">Gaussian herding across pens: An optimal transport perspective on global Gaussian reduction for 3DGS</h3>
   <p class="publication__authors">Tao Wang, <strong>Mengyu Li</strong><sup>†</sup>, Geduo Zeng, Cheng Meng<sup>*</sup>, Qiong Zhang<sup>*</sup></p>
   <p class="publication__venue"><em>NeurIPS</em> (2025)</p>
   <p class="publication__note">Spotlight (Top 3%)</p>
@@ -141,12 +142,12 @@ Publications and Working Papers
 
 </div>
 
-<h3 class="research-direction">Large-Scale Statistical Computing</h3>
+<h2 class="research-direction">Large-Scale Statistical Computing</h2>
 
 <div class="publication-list">
 
 <article class="publication">
-  <h4 class="publication__title">Core-elements subsampling for alternating least squares</h4>
+  <h3 class="publication__title">Core-elements subsampling for alternating least squares</h3>
   <p class="publication__authors">Dunyao Xue, <strong>Mengyu Li</strong><sup>*</sup>, Cheng Meng, Jingyi Zhang</p>
   <p class="publication__venue"><em>Journal of Computational and Graphical Statistics</em> (2026)</p>
   <p class="publication__links">
@@ -155,7 +156,7 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Sparsification subsampling for partial least squares regression</h4>
+  <h3 class="publication__title">Sparsification subsampling for partial least squares regression</h3>
   <p class="publication__authors">Junyi Lin, <strong>Mengyu Li</strong><sup>†</sup>, Cheng Meng<sup>*</sup>, Yongdao Zhou<sup>*</sup></p>
   <p class="publication__venue"><em>Journal of Computational and Graphical Statistics</em> (2026)</p>
   <p class="publication__links">
@@ -164,16 +165,7 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Efficient approximation of leverage scores in two-dimensional autoregressive models with application to image anomaly detection</h4>
-  <p class="publication__authors">Junlie Huang, Xinlai Kang, Qiannan Huang, <strong>Mengyu Li</strong>, Cheng Meng<sup>*</sup></p>
-  <p class="publication__venue"><em>Journal of Computational and Graphical Statistics</em> (2025)</p>
-  <p class="publication__links">
-    <a href="https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2505732" aria-label="Paper: Efficient approximation of leverage scores in two-dimensional autoregressive models with application to image anomaly detection">Paper</a>
-  </p>
-</article>
-
-<article class="publication">
-  <h4 class="publication__title">Nonparametric additive models for billion observations</h4>
+  <h3 class="publication__title">Nonparametric additive models for billion observations</h3>
   <p class="publication__authors"><strong>Mengyu Li</strong>, Jingyi Zhang, Cheng Meng<sup>*</sup></p>
   <p class="publication__venue"><em>Journal of Computational and Graphical Statistics</em> (2024)</p>
   <p class="publication__links">
@@ -183,7 +175,7 @@ Publications and Working Papers
 </article>
 
 <article class="publication">
-  <h4 class="publication__title">Core-elements for large-scale least squares estimation</h4>
+  <h3 class="publication__title">Core-elements for large-scale least squares estimation</h3>
   <p class="publication__authors"><strong>Mengyu Li</strong>, Jun Yu<sup>†</sup>, Tao Li, Cheng Meng<sup>*</sup></p>
   <p class="publication__venue"><em>Statistics and Computing</em> (2024)</p>
   <p class="publication__note">Student Paper Award in JSM 2022, Sections on Statistical Computing and Graphics</p>
@@ -195,25 +187,16 @@ Publications and Working Papers
 
 </div>
 
-<h3 class="research-direction">Other Work</h3>
+<h2 class="research-direction">Other Work</h2>
 
 <div class="publication-list">
 
 <article class="publication">
-  <h4 class="publication__title">Communication-efficient distributed linear discriminant analysis for binary classification</h4>
+  <h3 class="publication__title">Communication-efficient distributed linear discriminant analysis for binary classification</h3>
   <p class="publication__authors"><strong>Mengyu Li</strong>, Junlong Zhao<sup>*</sup></p>
   <p class="publication__venue"><em>Statistica Sinica</em> (2022)</p>
   <p class="publication__links">
     <a href="https://www3.stat.sinica.edu.tw/statistica/oldpdf/A32n308.pdf" aria-label="Paper: Communication-efficient distributed linear discriminant analysis for binary classification">Paper</a>
-  </p>
-</article>
-
-<article class="publication">
-  <h4 class="publication__title">A Hausdorff regression paradigm for interval privacy</h4>
-  <p class="publication__authors">Xinlai Kang, <strong>Mengyu Li</strong>, Xuqiang Chen, Fangyu Li, Cheng Meng<sup>*</sup></p>
-  <p class="publication__venue"><em>IEEE Signal Processing Letters</em> (2023)</p>
-  <p class="publication__links">
-    <a href="https://ieeexplore.ieee.org/document/10365205" aria-label="Paper: A Hausdorff regression paradigm for interval privacy">Paper</a>
   </p>
 </article>
 

@@ -3,11 +3,12 @@ layout: archive
 title: "Funding & Awards"
 permalink: /awards/
 author_profile: true
+hide_page_title: true
 dated_list_styles: true
 ---
 
 Funding
-------
+======
 <ul class="dated-list">
   <li class="dated-entry">
     <div class="dated-entry__body">
@@ -53,7 +54,7 @@ Funding
 </ul>
 
 Awards
-------
+======
 <ul class="dated-list">
   <li class="dated-entry">
     <div class="dated-entry__body">
