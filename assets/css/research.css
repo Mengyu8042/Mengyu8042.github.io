@@ -1,0 +1,122 @@
+/* Publication rows on the Research page. */
+.archive .research-interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35em 1.25em;
+  margin: 0.5em 0 1.6em;
+  padding: 0;
+  color: #626d75;
+  font-size: 0.9em;
+  list-style: none;
+}
+
+.research-interests li {
+  margin: 0;
+}
+
+.archive .research-direction {
+  margin: 2.3em 0 0.65em;
+  padding-bottom: 0.55em;
+  border-bottom: 1px solid #ccdee4;
+  color: #176fbd;
+  font-size: 1.13em;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.publication-legend {
+  color: #626d75;
+  font-size: 0.8em;
+}
+
+.publication-list {
+  margin: 0.5em 0 2em;
+}
+
+.publication {
+  padding: 1.05em 0;
+  border-bottom: 1px solid #e5eaed;
+  overflow-wrap: break-word;
+}
+
+.publication:first-child {
+  padding-top: 0.35em;
+}
+
+.publication:last-child {
+  border-bottom: 0;
+}
+
+.publication .publication__title {
+  margin: 0 0 0.3em;
+  color: #343d44;
+  font-size: 1em;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.publication .publication__authors,
+.publication .publication__venue {
+  margin: 0.2em 0 0;
+  font-size: 0.88em;
+  line-height: 1.55;
+}
+
+.publication__authors {
+  color: #626d75;
+}
+
+.publication__authors strong {
+  color: #494e52;
+  font-weight: 600;
+}
+
+.publication__authors sup,
+.publication-legend sup {
+  margin-left: 0.06em;
+}
+
+.publication__venue {
+  color: #494e52;
+}
+
+.publication .publication__note {
+  margin: 0.55em 0 0;
+  padding-left: 0.65em;
+  border-left: 2px solid #bd9857;
+  color: #846225;
+  font-size: 0.8em;
+  line-height: 1.5;
+}
+
+.publication .publication__links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45em;
+  margin: 0.6em 0 0;
+  font-size: 0.78em;
+}
+
+.publication__links a {
+  display: inline-block;
+  padding: 0.12em 0.65em;
+  border: 1px solid #ccdee4;
+  border-radius: 3px;
+  color: #28758d;
+  line-height: 1.55;
+}
+
+.archive .publication__links a,
+.archive .publication__links a:hover {
+  text-decoration: none;
+}
+
+.publication__links a:hover {
+  border-color: #28758d;
+  background: #f1f7f9;
+}
+
+.publication__links a:focus-visible {
+  outline: 2px solid #28758d;
+  outline-offset: 3px;
+}
